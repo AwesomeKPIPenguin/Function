@@ -8,6 +8,8 @@ const sum = function(a, b) {
   return a + b;
 };
 
+const sub = (a, b) => (a - b);
+
 const max = (a, b) => (a > b ? a : b);
 
 const avg = (a, b) => {
